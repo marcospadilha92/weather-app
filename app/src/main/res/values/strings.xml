@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="previs_o_do_tempo">Previsão do Tempo</string>
+    <string name="consultar">Consultar</string>
+    <string name="insira_uma_cidade">Insira uma cidade</string>
+</resources>
